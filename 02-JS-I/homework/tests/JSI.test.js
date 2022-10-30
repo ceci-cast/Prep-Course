@@ -1,5 +1,6 @@
 /* eslint-disable no-undef */
 const {
+  precio, descuento,
   nuevaString,
   nuevoNum,
   nuevoBool,
@@ -59,6 +60,8 @@ describe('nuevaResta', function() {
   });
 });
 
+
+
 describe('nuevaMultiplicacion', function() {
   it('Deberia ser un booleano', function() {
     expect(nuevaMultiplicacion).toBe(true);
@@ -74,7 +77,7 @@ describe('nuevoModulo', function() {
 describe('devolverString(str)', function() {
   it('Deberia devolver el string provisto', function() {
     let string = 'Henry';
-    expect(devolverString(string)).toBe(string);
+   expect(devolverString(string)).toBe(string);
   });
 });
 

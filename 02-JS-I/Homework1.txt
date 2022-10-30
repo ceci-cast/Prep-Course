@@ -1,0 +1,18 @@
+homework 1
+
+conceptos basicos:
+
+Variable: es un contenedor (caja) donde se puede guardar un algo que se va a utilizar mas adelante, se puede abrir y cerrar y agregarle cosas.
+
+Strings: representa un texto y siempre se coloca entre comillas dobles o simples dependiendo del lenguaje.
+
+Funciones: agrupa una cantidad de codigo que luego se puede llamar para ejecutar en cualquier parte del programa.
+
+Argumento: se refiere al nombre de la variable que se va a utilizar en el codigo.
+
+Return: Se utiliza para devolver un valor y retorna una sola vez.
+
+Declaracion if: representa un condicional que evalua si se cumple una condicion ejecuta algo y si no se cumple realiza otra cosa.
+
+Valores Booleanos: se refiere a un valor que distingue entre dos posibilidades "si o No" para JavaScript seria verdadero (true) o falso (false).
+

@@ -1,0 +1,19 @@
+
+
+	2do Homework
+
+
+Ciclo For: es un ciclo que nos permite realizar una tarea que se realiza un determinado numero de veces a traves de una sola instruccion, conociendo e indicando hasta donde deseamos que se ejecute dicho codigo.
+
+Operadores Logicos:
+
+&&: este operador se conoce como "AND" o "Y" el cual valida que ambas variables sean true (verdadero) y para que se ejecute el codigo Si y solo SI ambas deben ser verdaderas.
+
+||: este operador se conoce como "OR" y compara dos expresiones, cualquiera de las dos que sea verdadera, devolvera dicho valor.
+
+! : este simbolo siginifica "NO" y lo que hace es negar el booleano, es decir al colocarlo delante del valor booleano invierte este valor y devuelve lo contrario.
+
+
+Cecilia Castellano
+
+

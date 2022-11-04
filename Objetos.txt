@@ -1,0 +1,12 @@
+
+Homework JS IV Objeto
+
+Objetos:es un nombre o cosa que puede contener atributos o caracteristicas de si mismo.
+
+Propiedades:se refiere al atributo que contiene o se le puede agregar a un objeto.
+
+Métodos:se refiere al llamado o ejecucion de una funcion dentro de un objeto.
+
+Bucle for…in:
+
+Notación de puntos vs notación de corchetes

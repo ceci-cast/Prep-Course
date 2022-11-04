@@ -1,0 +1,3 @@
+Homework JSIII
+
+Array: es un lugar donde se pueden guardar una cantidad de elementos de forma ordenada.

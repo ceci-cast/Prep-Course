@@ -1,0 +1,2 @@
+
+Callback: es un tipo de funcion o llamada que se pasa por parametro a otra funcion.

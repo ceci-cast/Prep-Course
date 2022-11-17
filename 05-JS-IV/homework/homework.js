@@ -8,12 +8,17 @@ function crearGato(nombre, edad) {
   // Agrega un método (funcion) llamado "meow" que devuelva el string "Meow!"
   // Devuelve el objeto
   // Tu código:
-  const nvoobjeto = {
-    nombre: nombre,
-    edad: edad,
-    meow: function () { return "Meow!" },
-  }; return nvoobjeto;
-
+  //const nvoobjeto = {
+  //  nombre: nombre,
+  //  edad: edad,
+  //  meow: function () { return "Meow!" },
+ // }; return nvoobjeto;
+  var gato = {
+    nombre : nombre,
+    edad : edad,
+    meow: function () { return "Meow!"},
+  };
+   return gato;
 }
 
 function agregarPropiedad(objeto, property) {
@@ -73,6 +78,7 @@ function tieneEmail(usuario) {
     return false;}
     else
     return true;
+ 
   }
 
 function tienePropiedad(objeto, propiedad) {
@@ -91,7 +97,7 @@ function verificarPassword(usuario, password) {
   // Devuelve "true" si coinciden
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (password === usuario['password']){
+  if (usuario.password === password){
     return true;
   } else{
     return false;
@@ -102,7 +108,7 @@ function actualizarPassword(usuario, nuevaPassword) {
   // Devuelve el objeto
   // Tu código:
   
-  usuario['password'] = nuevaPassword;
+  usuario.password = nuevaPassword;
 
   return usuario;
 }
